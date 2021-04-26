@@ -13,3 +13,4 @@ Create a script that will loop through all the stocks and output the following i
 *Ticker symbol
 *Add conditional formatting that will highlight positive change in green and negative change in red.
 
+![alt text](https://github.com/Serapbasaran/Stock-Data-Analysis/blob/master/Screenshot%202020-09-26%20091808.png)
